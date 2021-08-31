@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NetworkParameter>
+
+  <CfgDelay>10</CfgDelay>
+
+  <NetHost>127.0.0.1</NetHost>
+
+  <CfgPort>4000</CfgPort>
+
+  <DataPort>4970</DataPort>
+
+  <DescPort>4960</DescPort>
+
+  <EILayerMajor>1</EILayerMajor>
+
+  <EILayerMinor>0</EILayerMinor>
+
+</NetworkParameter>

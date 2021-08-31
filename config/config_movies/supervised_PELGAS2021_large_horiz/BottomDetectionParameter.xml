@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BottomDetectionParameter>
+
+  <EnabledDetectionType>3</EnabledDetectionType>
+
+  <Disabled/>
+
+  <LastValidBottom/>
+
+  <FixedBottom>
+    <Value>150</Value>
+  </FixedBottom>
+
+  <ContourLine>
+    <ReferenceLevel>-30</ReferenceLevel>
+    <DisplayMaximumEchoLine>1</DisplayMaximumEchoLine>
+    <MixedBottomDetermination>1</MixedBottomDetermination>
+    <DefaultBottom>150</DefaultBottom>
+    <Sounders>
+      <SoundersNumber>2</SoundersNumber>
+      <SounderID>1</SounderID>
+      <SounderID>2</SounderID>
+    </Sounders>
+    <ContourLinesNumber>9</ContourLinesNumber>
+    <ContourLineDef>
+      <Level>-50</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-45</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-40</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-35</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-30</Level>
+      <Compute>1</Compute>
+      <Display>1</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-25</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-20</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-15</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+    <ContourLineDef>
+      <Level>-10</Level>
+      <Compute>1</Compute>
+      <Display>0</Display>
+    </ContourLineDef>
+  </ContourLine>
+
+  <ChangeEditedPingBottoms>1</ChangeEditedPingBottoms>
+
+</BottomDetectionParameter>

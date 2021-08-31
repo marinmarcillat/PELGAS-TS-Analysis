@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ShoalExtractionParameter>
+
+  <MinimumLength>1</MinimumLength>
+
+  <MinimumWidth>1</MinimumWidth>
+
+  <MinimumHeight>1</MinimumHeight>
+
+  <Threshold>-60</Threshold>
+
+  <MaxThreshold>0</MaxThreshold>
+
+  <VerticalIntegrationDistance>1</VerticalIntegrationDistance>
+
+  <AcrossIntegrationDistance>0</AcrossIntegrationDistance>
+
+  <AlongIntegrationDistance>0</AlongIntegrationDistance>
+
+  <RecordPath>c:\temp\</RecordPath>
+
+  <SaveEchosInformation>0</SaveEchosInformation>
+
+  <SaveContourPointsPositions>0</SaveContourPointsPositions>
+
+  <BroadcastAndRecord>
+    <EnableFileOutput>1</EnableFileOutput>
+    <EnableNetworkOutput>0</EnableNetworkOutput>
+    <TramaFormat>1</TramaFormat>
+    <FileCutStrategy>0</FileCutStrategy>
+    <FileMaxSize>5</FileMaxSize>
+    <FileMaxTime>3600</FileMaxTime>
+    <FilePrefix>results</FilePrefix>
+    <FilePath>C:\</FilePath>
+    <DatePrefix>1</DatePrefix>
+    <TramaDescriptor>
+      <TramaConfigured>0</TramaConfigured>
+      <TramaNumber>0</TramaNumber>
+    </TramaDescriptor>
+  </BroadcastAndRecord>
+
+</ShoalExtractionParameter>

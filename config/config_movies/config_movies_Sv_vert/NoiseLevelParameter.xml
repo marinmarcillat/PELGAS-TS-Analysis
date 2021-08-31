@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NoiseLevelParameter>
+
+  <Enabled>0</Enabled>
+
+  <MinRange>10</MinRange>
+
+  <MaxRange>100</MaxRange>
+
+  <NoiseLevelThreshold>-50</NoiseLevelThreshold>
+
+  <ReferenceFilePath></ReferenceFilePath>
+
+</NoiseLevelParameter>

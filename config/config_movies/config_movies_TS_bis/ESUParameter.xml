@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ESUParameter>
+
+  <ESUCutType>0</ESUCutType>
+
+  <Distance>0.1</Distance>
+
+  <PingNumber>100</PingNumber>
+
+  <Time>600</Time>
+
+  <MaxTemporalGap>100</MaxTemporalGap>
+
+</ESUParameter>

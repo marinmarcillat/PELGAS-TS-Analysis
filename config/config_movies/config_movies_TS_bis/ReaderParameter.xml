@@ -1,0 +1,17 @@
+<ReaderParameter>
+
+  <SortDataBeforeWrite>0</SortDataBeforeWrite>
+
+  <IsUseTimeDef>0</IsUseTimeDef>
+
+  <TimeElapsed>60</TimeElapsed>
+
+  <SounderId>1</SounderId>
+
+  <NumberOfFanToRead>100</NumberOfFanToRead>
+
+  <AcquisitionPort>37778</AcquisitionPort>
+
+  <CallbackPort>37781</CallbackPort>
+
+</ReaderParameter>

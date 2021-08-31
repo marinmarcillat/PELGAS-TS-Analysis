@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FilterMgrParameter>
+
+  <FilterNumber>14</FilterNumber>
+
+  <FloorFilterSimple>
+    <Enabled>0</Enabled>
+    <Tolerance>1</Tolerance>
+  </FloorFilterSimple>
+
+  <FloorFilterVariable>
+    <Enabled>1</Enabled>
+    <Tolerance>0.6</Tolerance>
+  </FloorFilterVariable>
+
+  <FilterSphereOffset>
+    <Enabled>0</Enabled>
+    <Tolerance>1</Tolerance>
+    <Threshold>-60</Threshold>
+  </FilterSphereOffset>
+
+  <FilterSphereVariableOffset>
+    <Enabled>0</Enabled>
+    <Tolerance>3</Tolerance>
+    <Threshold>-50</Threshold>
+  </FilterSphereVariableOffset>
+
+  <BlindZoneFilterMulti>
+    <Enabled>1</Enabled>
+    <OffsetMeters>15</OffsetMeters>
+  </BlindZoneFilterMulti>
+
+  <BlindZoneFilterMono>
+    <Enabled>0</Enabled>
+    <OffsetMeters>3</OffsetMeters>
+  </BlindZoneFilterMono>
+
+  <UpperFilter>
+    <Enabled>0</Enabled>
+    <Depth>0</Depth>
+  </UpperFilter>
+
+  <LowerFilter>
+    <Enabled>0</Enabled>
+    <Depth>100</Depth>
+  </LowerFilter>
+
+  <SideLobeFilter>
+    <Enabled>0</Enabled>
+    <Threshold>5</Threshold>
+  </SideLobeFilter>
+
+  <GainCorrectionFilter>
+    <Enabled>0</Enabled>
+    <BeamId>0</BeamId>
+    <Value>0</Value>
+  </GainCorrectionFilter>
+
+  <GainCorrectionFilter>
+    <Enabled>0</Enabled>
+    <BeamId>0</BeamId>
+    <Value>0</Value>
+  </GainCorrectionFilter>
+
+  <GainCorrectionFilter>
+    <Enabled>0</Enabled>
+    <BeamId>0</BeamId>
+    <Value>0</Value>
+  </GainCorrectionFilter>
+
+  <InterferenceFilter>
+    <Enabled>1</Enabled>
+    <Tolerance>3</Tolerance>
+    <Threshold>10</Threshold>
+    <Proportion>75</Proportion>
+    <HoleSize>5</HoleSize>
+    <WindowSize>5</WindowSize>
+    <EmissionDelaySet>
+      <NbTransducer>2</NbTransducer>
+      <EmissionDelay>
+        <TransducerName>EM302</TransducerName>
+        <NbGroup>6</NbGroup>
+        <DelayGroup>
+          <NbChan>42</NbChan>
+          <Delay>8</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>45</NbChan>
+          <Delay>4</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>57</NbChan>
+          <Delay>0</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>57</NbChan>
+          <Delay>2</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>45</NbChan>
+          <Delay>6</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>42</NbChan>
+          <Delay>10</Delay>
+        </DelayGroup>
+      </EmissionDelay>
+      <EmissionDelay>
+        <TransducerName>ME70</TransducerName>
+        <NbGroup>10</NbGroup>
+        <DelayGroup>
+          <NbChan>1</NbChan>
+          <Delay>40</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>32</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>24</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>16</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>8</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>4</NbChan>
+          <Delay>0</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>8</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>16</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>24</Delay>
+        </DelayGroup>
+        <DelayGroup>
+          <NbChan>2</NbChan>
+          <Delay>32</Delay>
+        </DelayGroup>
+      </EmissionDelay>
+    </EmissionDelaySet>
+  </InterferenceFilter>
+
+  <BeamIdGroupFilter>
+    <Enabled>0</Enabled>
+    <BeamIdRanges>
+      <NbTransducer>3</NbTransducer>
+      <TransducerBeamIdRange>
+        <Transducer>Generic</Transducer>
+        <NbRange>0</NbRange>
+      </TransducerBeamIdRange>
+      <TransducerBeamIdRange>
+        <Transducer>Generic MultiBeam Transducer</Transducer>
+        <NbRange>0</NbRange>
+      </TransducerBeamIdRange>
+      <TransducerBeamIdRange>
+        <Transducer>ME70</Transducer>
+        <NbRange>0</NbRange>
+      </TransducerBeamIdRange>
+    </BeamIdRanges>
+  </BeamIdGroupFilter>
+
+</FilterMgrParameter>

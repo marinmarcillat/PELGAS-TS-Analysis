@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TSAnalysisParameter>
+
+  <DetectionEnabled>1</DetectionEnabled>
+
+  <TSThreshold>-50</TSThreshold>
+
+  <MinEchoLength>0.8</MinEchoLength>
+
+  <MaxEchoLength>1.8</MaxEchoLength>
+
+  <MaxGainComp>6</MaxGainComp>
+
+  <PhaseDev>8</PhaseDev>
+
+  <MinEchoSpace>2</MinEchoSpace>
+
+  <MinEchoDepth>10</MinEchoDepth>
+
+  <MaxEchoDepth>100</MaxEchoDepth>
+
+  <TrackingEnabled>1</TrackingEnabled>
+
+  <MaxSpeed>3</MaxSpeed>
+
+  <MaxHoles>1</MaxHoles>
+
+  <MinEchoNumber>2</MinEchoNumber>
+
+  <MaxHolesPercent>0.5</MaxHolesPercent>
+
+  <HistogramMinValue>-60</HistogramMinValue>
+
+  <HistogramMaxValue>-40</HistogramMaxValue>
+
+  <HistogramResolution>5</HistogramResolution>
+
+  <DistPrevPost>0.15</DistPrevPost>
+
+  <HistogramSounders>
+    <SounderID>4</SounderID>
+  </HistogramSounders>
+
+</TSAnalysisParameter>

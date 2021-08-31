@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<DisplayParameter>
+
+  <Sampling>1</Sampling>
+
+  <MinThreshold>-6000</MinThreshold>
+
+  <MaxThreshold>1000</MaxThreshold>
+
+  <PingFanDelayed>0</PingFanDelayed>
+
+  <PingFanLength>50</PingFanLength>
+
+  <DisplayEchos>0</DisplayEchos>
+
+  <DisplayVolumeSampled>1</DisplayVolumeSampled>
+
+  <MinDepth>0</MinDepth>
+
+  <MaxDepth>300</MaxDepth>
+
+  <OverwriteScalarWithChannelId>0</OverwriteScalarWithChannelId>
+
+  <UseGlyphCube>1</UseGlyphCube>
+
+  <DistanceGrid>1</DistanceGrid>
+
+  <DistanceSampling>0.1</DistanceSampling>
+
+  <DepthGrid>1</DepthGrid>
+
+  <DepthSampling>15</DepthSampling>
+
+  <Strech>0</Strech>
+
+  <Display2DShoals>1</Display2DShoals>
+
+  <Display2DSingleEchoes>0</Display2DSingleEchoes>
+
+  <TSDisplayType>0</TSDisplayType>
+
+  <UseGPSPositionning>1</UseGPSPositionning>
+
+  <PixelsPerPing>1</PixelsPerPing>
+
+  <DeviationCoefficient>0.1</DeviationCoefficient>
+
+  <Render2DMode>1</Render2DMode>
+
+  <MinPaletteThreshold>-6000</MinPaletteThreshold>
+
+  <MaxPaletteThreshold>-2200</MaxPaletteThreshold>
+
+  <PaletteType>0</PaletteType>
+
+  <ColorPaletteEcho>
+    <ColorPalettePoint>
+      <Color>D8800000</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>D8BA1801</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>CCFF0000</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>BFFE5C45</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>B2FEBC45</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>99FFFF00</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>99FFFF53</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>7FFFFF99</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>6600FF1C</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>6602D556</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>4C01FFB4</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>336FFFB7</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>330000FF</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>333165FF</Color>
+    </ColorPalettePoint>
+    <ColorPalettePoint>
+      <Color>334AC8EC</Color>
+    </ColorPalettePoint>
+  </ColorPaletteEcho>
+
+  <EchoDisplaySize>1</EchoDisplaySize>
+
+  <BackgroundRed>1</BackgroundRed>
+
+  <BackgroundGreen>1</BackgroundGreen>
+
+  <BackgroundBlue>1</BackgroundBlue>
+
+  <Opacity>1</Opacity>
+
+  <OpacityFactor>1</OpacityFactor>
+
+  <EsuGridColor>FFFF0000</EsuGridColor>
+
+  <EsuGridWidth>4</EsuGridWidth>
+
+  <BottomColor>FF000000</BottomColor>
+
+  <BottomWidth>1</BottomWidth>
+
+  <DetectedBottomViewTransducer>ES18-18000</DetectedBottomViewTransducer>
+
+  <NoiseLevelLogScale>1</NoiseLevelLogScale>
+
+  <noiseDisplayEnable>1</noiseDisplayEnable>
+
+  <noiseColor>FFFF0000</noiseColor>
+
+  <refNoiseDisplayEnable>1</refNoiseDisplayEnable>
+
+  <refNoiseColor>FF00FF00</refNoiseColor>
+
+  <echogramBackgroundColor>FFFFFFFF</echogramBackgroundColor>
+
+  <isLinkSounderEnabled>1</isLinkSounderEnabled>
+
+  <isBeamVolumeDisplayed>1</isBeamVolumeDisplayed>
+
+  <isGraduationsDisplayed>1</isGraduationsDisplayed>
+
+  <isLabelsDisplayed>1</isLabelsDisplayed>
+
+  <isSeaFloorEnabled>1</isSeaFloorEnabled>
+
+  <seaFloorScale>10</seaFloorScale>
+
+  <singleEchoDisplaySize>0.05</singleEchoDisplaySize>
+
+  <isSingleEchosDisplayed>0</isSingleEchosDisplayed>
+
+  <isShoalVolumesDisplayed>1</isShoalVolumesDisplayed>
+
+  <isShoalVoumesSmoothed>1</isShoalVoumesSmoothed>
+
+  <isShoalLabelsDisplayed>0</isShoalLabelsDisplayed>
+
+  <shoalDisplayType>0</shoalDisplayType>
+
+  <verticalScale>10</verticalScale>
+
+  <azimuth>0</azimuth>
+
+  <elevation>0</elevation>
+
+  <zoomFactor>1</zoomFactor>
+
+  <resetCamera>1</resetCamera>
+
+  <useAutoReset>1</useAutoReset>
+
+</DisplayParameter>

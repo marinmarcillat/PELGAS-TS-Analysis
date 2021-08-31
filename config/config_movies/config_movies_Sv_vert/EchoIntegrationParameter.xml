@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<EchoIntegrationParameter>
+
+  <CustomLayersMode>0</CustomLayersMode>
+
+  <LowThreshold>-60</LowThreshold>
+
+  <HighThreshold>0</HighThreshold>
+
+  <OffsetBottom>0.68</OffsetBottom>
+
+  <SurfaceLayerNumber>71</SurfaceLayerNumber>
+
+  <BottomLayerNumber>1</BottomLayerNumber>
+
+  <DistanceLayerNumber>0</DistanceLayerNumber>
+
+  <LayerDefSurface>
+    <MinDepth>10</MinDepth>
+    <MaxDepth>11</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>11</MinDepth>
+    <MaxDepth>12</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>12</MinDepth>
+    <MaxDepth>13</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>13</MinDepth>
+    <MaxDepth>14</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>14</MinDepth>
+    <MaxDepth>15</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>15</MinDepth>
+    <MaxDepth>16</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>16</MinDepth>
+    <MaxDepth>17</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>17</MinDepth>
+    <MaxDepth>18</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>18</MinDepth>
+    <MaxDepth>19</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>19</MinDepth>
+    <MaxDepth>20</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>20</MinDepth>
+    <MaxDepth>21</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>21</MinDepth>
+    <MaxDepth>22</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>22</MinDepth>
+    <MaxDepth>23</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>23</MinDepth>
+    <MaxDepth>24</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>24</MinDepth>
+    <MaxDepth>25</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>25</MinDepth>
+    <MaxDepth>26</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>26</MinDepth>
+    <MaxDepth>27</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>27</MinDepth>
+    <MaxDepth>28</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>28</MinDepth>
+    <MaxDepth>29</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>29</MinDepth>
+    <MaxDepth>30</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>30</MinDepth>
+    <MaxDepth>31</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>31</MinDepth>
+    <MaxDepth>32</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>32</MinDepth>
+    <MaxDepth>33</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>33</MinDepth>
+    <MaxDepth>34</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>34</MinDepth>
+    <MaxDepth>35</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>35</MinDepth>
+    <MaxDepth>36</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>36</MinDepth>
+    <MaxDepth>37</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>37</MinDepth>
+    <MaxDepth>38</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>38</MinDepth>
+    <MaxDepth>39</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>39</MinDepth>
+    <MaxDepth>40</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>40</MinDepth>
+    <MaxDepth>41</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>41</MinDepth>
+    <MaxDepth>42</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>42</MinDepth>
+    <MaxDepth>43</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>43</MinDepth>
+    <MaxDepth>44</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>44</MinDepth>
+    <MaxDepth>45</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>45</MinDepth>
+    <MaxDepth>46</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>46</MinDepth>
+    <MaxDepth>47</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>47</MinDepth>
+    <MaxDepth>48</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>48</MinDepth>
+    <MaxDepth>49</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>49</MinDepth>
+    <MaxDepth>50</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>50</MinDepth>
+    <MaxDepth>51</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>51</MinDepth>
+    <MaxDepth>52</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>52</MinDepth>
+    <MaxDepth>53</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>53</MinDepth>
+    <MaxDepth>54</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>54</MinDepth>
+    <MaxDepth>55</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>55</MinDepth>
+    <MaxDepth>56</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>56</MinDepth>
+    <MaxDepth>57</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>57</MinDepth>
+    <MaxDepth>58</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>58</MinDepth>
+    <MaxDepth>59</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>59</MinDepth>
+    <MaxDepth>60</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>60</MinDepth>
+    <MaxDepth>61</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>61</MinDepth>
+    <MaxDepth>62</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>62</MinDepth>
+    <MaxDepth>63</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>63</MinDepth>
+    <MaxDepth>64</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>64</MinDepth>
+    <MaxDepth>65</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>65</MinDepth>
+    <MaxDepth>66</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>66</MinDepth>
+    <MaxDepth>67</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>67</MinDepth>
+    <MaxDepth>68</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>68</MinDepth>
+    <MaxDepth>69</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>69</MinDepth>
+    <MaxDepth>70</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>70</MinDepth>
+    <MaxDepth>71</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>71</MinDepth>
+    <MaxDepth>72</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>72</MinDepth>
+    <MaxDepth>73</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>73</MinDepth>
+    <MaxDepth>74</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>74</MinDepth>
+    <MaxDepth>75</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>75</MinDepth>
+    <MaxDepth>76</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>76</MinDepth>
+    <MaxDepth>77</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>77</MinDepth>
+    <MaxDepth>78</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>78</MinDepth>
+    <MaxDepth>79</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>79</MinDepth>
+    <MaxDepth>80</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefSurface>
+    <MinDepth>80</MinDepth>
+    <MaxDepth>150</MaxDepth>
+  </LayerDefSurface>
+
+  <LayerDefBottom>
+    <MinHeight>0.68</MinHeight>
+    <MaxHeight>1.68</MaxHeight>
+  </LayerDefBottom>
+
+  <BroadcastAndRecord>
+    <EnableFileOutput>1</EnableFileOutput>
+    <EnableNetworkOutput>0</EnableNetworkOutput>
+    <TramaFormat>1</TramaFormat>
+    <FileCutStrategy>0</FileCutStrategy>
+    <FileMaxSize>100</FileMaxSize>
+    <FileMaxTime>3600</FileMaxTime>
+    <FilePrefix>R16_LM-a_PEL21</FilePrefix>
+    <FilePath>C:\Echotypage\lay</FilePath>
+    <DatePrefix>1</DatePrefix>
+    <TramaDescriptor>
+      <TramaConfigured>1</TramaConfigured>
+      <TramaNumber>74</TramaNumber>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\lat</TramaID>
+        <TramaDesc>latitude</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\long</TramaID>
+        <TramaDesc>longitude</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\alt</TramaID>
+        <TramaDesc>altitude</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\gndspeed</TramaID>
+        <TramaDesc>ground</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\gndcourse</TramaID>
+        <TramaDesc>ground</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\surfspeed</TramaID>
+        <TramaDesc>surface</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\surfcourse</TramaID>
+        <TramaDesc>surface</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\driftspeed</TramaID>
+        <TramaDesc>drift</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\driftcourse</TramaID>
+        <TramaDesc>drift</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\heading</TramaID>
+        <TramaDesc>true</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\roll</TramaID>
+        <TramaDesc>roll</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\pitch</TramaID>
+        <TramaDesc>pitch</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\heave</TramaID>
+        <TramaDesc>heave</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\depth</TramaID>
+        <TramaDesc>depth</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\shipnav\draught</TramaID>
+        <TramaDesc>draught</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>0</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\cellnum</TramaID>
+        <TramaDesc>cell</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\celltype</TramaID>
+        <TramaDesc>cell</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\depthstart</TramaID>
+        <TramaDesc>start</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\depthend</TramaID>
+        <TramaDesc>end</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\indexstart</TramaID>
+        <TramaDesc>start</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\indexend</TramaID>
+        <TramaDesc>end</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\datestart</TramaID>
+        <TramaDesc>start</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\dateend</TramaID>
+        <TramaDesc>end</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\diststart</TramaID>
+        <TramaDesc>start</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\distend</TramaID>
+        <TramaDesc>end</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\thresholdup</TramaID>
+        <TramaDesc>threshold</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\thresholdlow</TramaID>
+        <TramaDesc>threshold</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\lat</TramaID>
+        <TramaDesc>latitude</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\long</TramaID>
+        <TramaDesc>longitude</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\volume</TramaID>
+        <TramaDesc>volume</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\cellset\surface</TramaID>
+        <TramaDesc>surface</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\sndname</TramaID>
+        <TramaDesc>sounder</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\sndident</TramaID>
+        <TramaDesc>sounder</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\softChannelId</TramaID>
+        <TramaDesc>channel</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\channelName</TramaID>
+        <TramaDesc>channel</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\dataType</TramaID>
+        <TramaDesc>data</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamType</TramaID>
+        <TramaDesc>beam</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\acousticFrequency</TramaID>
+        <TramaDesc>acoustic</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\startSample</TramaID>
+        <TramaDesc>start</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\mainBeamAlongSteeringAngle</TramaID>
+        <TramaDesc>mainBeamAlongSteeringAngle</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\mainBeamAthwartSteeringAngle</TramaID>
+        <TramaDesc>mainBeamAthwartSteeringAngle</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\absorptionCoef</TramaID>
+        <TramaDesc>sounder</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\transmissionPower</TramaID>
+        <TramaDesc>maximum</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamAlongAngleSensitivity</TramaID>
+        <TramaDesc>beamAlongAngleSensitivity</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamAthwartAngleSensitivity</TramaID>
+        <TramaDesc>beamAthwartAngleSensitivity</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beam3dBWidthAlong</TramaID>
+        <TramaDesc>beam3dBWidthAlong</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beam3dBWidthAthwart</TramaID>
+        <TramaDesc>beam3dBWidthAthwart</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamEquTwoWayAngle</TramaID>
+        <TramaDesc>dualway</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamGain</TramaID>
+        <TramaDesc>beam</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\beamSACorrection</TramaID>
+        <TramaDesc>beam</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\bottomDetectionMinDepth</TramaID>
+        <TramaDesc>bottom</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\bottomDetectionMaxDepth</TramaID>
+        <TramaDesc>bottom</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\bottomDetectionMinLevel</TramaID>
+        <TramaDesc>bottom</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\AlongTXRXWeightId</TramaID>
+        <TramaDesc>AlongTXRXWeightId</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\AthwartTXRXWeightId</TramaID>
+        <TramaDesc>AthwartTXRXWeightId</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\SplitBeamAlongTXRXWeightId</TramaID>
+        <TramaDesc>SplitBeamAlongTXRXWeightId</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\SplitBeamAthwartTXRXWeightId</TramaID>
+        <TramaDesc>SplitBeamAthwartTXRXWeightId</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\bandWidth</TramaID>
+        <TramaDesc>bandWidth</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\tvgminrange</TramaID>
+        <TramaDesc>TVG</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\tvgmaxrange</TramaID>
+        <TramaDesc>TVG</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\pulseduration</TramaID>
+        <TramaDesc>pulse</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\sndset\soundcelerity</TramaID>
+        <TramaDesc>sound</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\eilayer</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\eilayer\sa</TramaID>
+        <TramaDesc>sa</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\eilayer\sv</TramaID>
+        <TramaDesc>sv</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\eilayer\ni</TramaID>
+        <TramaDesc>nb</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\eilayer\nt</TramaID>
+        <TramaDesc>nb</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\boterr</TramaID>
+        <TramaDesc></TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\boterr\sa</TramaID>
+        <TramaDesc>sa</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+      <TramaNode>
+        <TramaID>MOVIES_EILayer\boterr\ni</TramaID>
+        <TramaDesc>nb</TramaDesc>
+        <TramaWanted>1</TramaWanted>
+        <TramaNeeded>1</TramaNeeded>
+      </TramaNode>
+    </TramaDescriptor>
+  </BroadcastAndRecord>
+
+</EchoIntegrationParameter>

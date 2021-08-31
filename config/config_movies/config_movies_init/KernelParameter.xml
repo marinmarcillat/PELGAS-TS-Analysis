@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<KernelParameter>
+
+  <MaxRange>300</MaxRange>
+
+  <UserSpeed>5</UserSpeed>
+
+  <SpeedUsed>2</SpeedUsed>
+
+  <UserPositionLat>0</UserPositionLat>
+
+  <UserPositionLong>0</UserPositionLong>
+
+  <UserPositionDepth>0</UserPositionDepth>
+
+  <PositionUsed>1</PositionUsed>
+
+  <LogPingFanInterTime>0</LogPingFanInterTime>
+
+  <CustomSampling>0</CustomSampling>
+
+  <ScreenPixelSizeX>10</ScreenPixelSizeX>
+
+  <ScreenPixelSizeY>5</ScreenPixelSizeY>
+
+  <NbPingFanMax>500</NbPingFanMax>
+
+  <AutoLengthEnable>1</AutoLengthEnable>
+
+  <AutoDepthEnable>0</AutoDepthEnable>
+
+  <AutoDepthTolerance>10</AutoDepthTolerance>
+
+  <IgnoreIncompletePings>1</IgnoreIncompletePings>
+
+  <IgnorePhaseData>0</IgnorePhaseData>
+
+  <CorrectSounderTimeShift>1</CorrectSounderTimeShift>
+
+  <IgnorePingsWithNoNavigation>0</IgnorePingsWithNoNavigation>
+
+  <IgnorePingsWithNoPosition>0</IgnorePingsWithNoPosition>
+
+  <IgnoreAsynchronousChannels>1</IgnoreAsynchronousChannels>
+
+  <InterpolatePingPosition>1</InterpolatePingPosition>
+
+  <WeightedEchoIntegration>1</WeightedEchoIntegration>
+
+  <InterpolateAttitudes>1</InterpolateAttitudes>
+
+  <KeepQuadrantsInMemory>0</KeepQuadrantsInMemory>
+
+  <ProjectionNumber>1</ProjectionNumber>
+
+  <SelectedProjectionIndex>0</SelectedProjectionIndex>
+
+  <ProjectionParameters>
+    <ProjectionName>Lambert93</ProjectionName>
+    <Eccentricity>0.08181919104281098</Eccentricity>
+    <SemiMajorAxis>6378137</SemiMajorAxis>
+    <FirstParal>44</FirstParal>
+    <SecondParal>49</SecondParal>
+    <LongMeridOrigin>3</LongMeridOrigin>
+    <X0>700000</X0>
+    <Y0>6600000</Y0>
+    <ScaleFactor>1</ScaleFactor>
+  </ProjectionParameters>
+
+  <Environment>
+    <Temperature>12.6</Temperature>
+    <SpeedOfSound>1494.572</SpeedOfSound>
+    <Salinity>35.4</Salinity>
+    <UseCustomEnvironment>0</UseCustomEnvironment>
+  </Environment>
+
+</KernelParameter>

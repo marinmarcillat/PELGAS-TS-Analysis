@@ -1,0 +1,7 @@
+<CalibrationParameter>
+
+  <Enabled>1</Enabled>
+
+  <CalibrationFile>D:\main\Stage\TS_analysis_pymovies\config\calibration\TrList_calibrationHoriz200.xml</CalibrationFile>
+
+</CalibrationParameter>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SpectralAnalysisParameter>
+
+  <PulseCompression>1</PulseCompression>
+
+  <SpectralAnalysis>0</SpectralAnalysis>
+
+  <FrequencyResolution>2000</FrequencyResolution>
+
+</SpectralAnalysisParameter>

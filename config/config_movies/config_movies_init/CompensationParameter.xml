@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CompensationParameter>
+
+  <EnableOverlap>0</EnableOverlap>
+
+  <ReferenceThreshold>-6500</ReferenceThreshold>
+
+  <DataThreshold>-7500</DataThreshold>
+
+  <GridSpaceZ>0.1</GridSpaceZ>
+
+  <GridSpaceXYAngleFactor>0.01745329251994444</GridSpaceXYAngleFactor>
+
+  <ReferenceWindowsPingCount>10</ReferenceWindowsPingCount>
+
+  <OverlapThreshold>80</OverlapThreshold>
+
+  <MinEchoesNb>10</MinEchoesNb>
+
+  <PrecisionLog>0.004999999888241291</PrecisionLog>
+
+  <PrecisionDepth>5</PrecisionDepth>
+
+  <UseSV>0</UseSV>
+
+  <UseUnfiltered>1</UseUnfiltered>
+
+  <RefTransducer>ES38B</RefTransducer>
+
+  <TransducerPositionSet>
+    <NbTransducer>12</NbTransducer>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES18-11</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0.009424777960770001</PitchRot>
+      <RollRot>-0.003665191429188333</RollRot>
+      <InternalDelay>-0.29</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES38B</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0.008552113334772777</PitchRot>
+      <RollRot>0.003490658503988889</RollRot>
+      <InternalDelay>-0.17</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES70-7C</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.004188790204786667</PitchRot>
+      <RollRot>-0.003839724354387778</RollRot>
+      <InternalDelay>-0.08</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES120-7C</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.004886921905584445</PitchRot>
+      <RollRot>-0.00314159265359</RollRot>
+      <InternalDelay>-0.03</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES200-7C</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.01047197551196667</PitchRot>
+      <RollRot>0</RollRot>
+      <InternalDelay>-0.02</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ME70</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0</PitchRot>
+      <RollRot>0</RollRot>
+      <InternalDelay>-0.11</InternalDelay>
+      <SampleOffset>0</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>ES70-11</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0</PitchRot>
+      <RollRot>-1.570796326795</RollRot>
+      <InternalDelay>0</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>EK5001</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0.009424777960770001</PitchRot>
+      <RollRot>-0.003665191429188333</RollRot>
+      <InternalDelay>-0.29</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>EK5002</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>0.008552113334772777</PitchRot>
+      <RollRot>0.003490658503988889</RollRot>
+      <InternalDelay>-0.17</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>EK5003</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.004188790204786667</PitchRot>
+      <RollRot>-0.003839724354387778</RollRot>
+      <InternalDelay>-0.08</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>EK5004</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.004886921905584445</PitchRot>
+      <RollRot>-0.00314159265359</RollRot>
+      <InternalDelay>-0.03</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+    <TransducerPosition>
+      <UseHACFileValues>1</UseHACFileValues>
+      <TransducerName>EK5005</TransducerName>
+      <HeadingRot>0</HeadingRot>
+      <PitchRot>-0.01047197551196667</PitchRot>
+      <RollRot>0</RollRot>
+      <InternalDelay>-0.02</InternalDelay>
+      <SampleOffset>-2</SampleOffset>
+    </TransducerPosition>
+  </TransducerPositionSet>
+
+</CompensationParameter>
